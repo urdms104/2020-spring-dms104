@@ -12,7 +12,7 @@ Designing digital products and services requires a process of "Interaction Desig
 ## Instructor Information
 - Instructor: **Professor Kostin**
 - E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
-- Office: **Wegmans Hall, room 2105** (for student meetings and office hours)
+- Office: **Wegmans Hall, Room 2105** (for student meetings and office hours; otherwise: Morey Hall, room 206a for deliveries and official business)
 
 ### Office Hours
 
