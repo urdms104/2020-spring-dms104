@@ -1,8 +1,10 @@
+# [course-documentation](http://docs.dms104.org/)
+
 # Course Syllabus: DMS 104 - Design in the Digital Age
 
 Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as a design process, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
 
-- CRN: **22139**
+- CRN: **22463**
 - Course: **DMS 104**
 - Credits: **4.0**
 - Lecture Schedule: **Tuesdays and Thursdays, 12:30 to 1:45 PM**
@@ -11,15 +13,13 @@ Designing digital products and services requires a process of "Interaction Desig
 
 ## Instructor Information
 - Instructor: **Professor Kostin**
-- E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
-- Office: **Wegmans Hall, room 2105**
+- E-mail: **robert.kostin@rochester.edu**
+- Office: **Morey Hall, Room 313**
 
 ### Office Hours
 
-- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms371.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor (and other students, optionally) will answer questions as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:
-  - Mondays, 2:00 - 3:00 PM
-  - Wednesdays, 11:00 AM - 12:00 PM
+- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms104.slack.com/), in the **#help** channel. Students can leave questions at any time. The professor, TAs, and other students will answer as quickly as possible
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
 
 ## Communication
 
@@ -27,14 +27,14 @@ The professor will use **Slack** to make course‑related announcements and to d
 
 Students may also use Slack to ask questions and get help from the TAs and professor.
 
-- Sign-up for access to the DMS 104 Slack Workspace here:  [join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup)
+- Sign-up for access to the DMS 104 Slack Workspace here:  join.slack.com/t/dms104/signup
   - Students must use their **rochester.edu** email when signing-up for access
+
 - After the student has created their account, they can access the  DMS 104 Slack Workspace here: [dms104.slack.com](https://dms104.slack.com)
 
   - Consider bookmarking that address
-- For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
-  - Using your PC, Mac, iPhone or Android device, go to this address to download the native application for whichever platform you're using: https://slack.com/downloads
-  - Consider turning-on Slack notifications in the smartphone app; they can be customized to keep from being overwhelmed with notifications
+  - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
+  - Also consider turning-on Slack notifications in the smartphone app; they can be customized so the student is not overwhelmed with notifications
 
 ## Texts and Materials
 
@@ -90,8 +90,8 @@ Outside of the classroom sessions, students need to: read/study assigned section
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **20%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
-| **Project** Students will design an interactive digital product in three parts over the course of the semester<br><br>Project 1 - User and Domain Analysis<br/>Project 2 - Design Vision<br/>Project 3 - Form & Behavior Specification (Detailed Design) | **50%** The three parts of the design process will require students to work in  teams to deliver each projects <br/>20%<br/>15%<br/>15% |
-| **Exams**<br/>Midterm<br/>Final                              | **30%**<br/>15%<br/>15%                                      |
+| **Project** Students will design an interactive digital product in four phases over the course of the semester<br>Phase 1 - Marketing Requirements<br/>Phase 2 - User and Domain Analysis<br/>Phase 3 - Design Vision<br/>Phase 4 - Form & Behavior Specification (Detailed Design) | **<s>50%</s> 65%** The four phases of the design process will require students to work in a team to deliver the phase documents <br/>5%<br/><s>15%</s> 20%<br/><s>15%</s> 20%<br/><s>15%</s> 20% |
+| **Exams**<br/>Midterm<br/><s>Final</s>                       | **<s>30%</s> 15%**<br/>15%<br/><s>15%</s>                    |
 
 ### Due Dates
 
