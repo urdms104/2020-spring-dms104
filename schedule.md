@@ -3,7 +3,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, January 16, 2020**
   - Class 1: Introduction and Overview of the Course
-  - [Slack for Classroom Communication (PDF)](01-Introduction/slack-for-classroom-communication.pdf)
+  - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
   - [ ] Read Chapter 2: Assembling the Team (p15-32)

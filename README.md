@@ -8,7 +8,7 @@ Design in the Digital Age
 ## Current topic
 
 - Thursday, January 16: **Introduction and Overview of the Course**
-  - [Slack for Classroom Communication (PDF)](01-Introduction/slack-for-classroom-communication.pdf)
+  - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
 
