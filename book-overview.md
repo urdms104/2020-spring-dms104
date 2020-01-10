@@ -30,7 +30,7 @@ Definition of the roles & responsibilities, including the *design team*:
 
 Assignment: read all of Chapter 2 (16 pages); focus on the roles & responsibilities of the Design Team
 
-Each student chooses their own *initial* design team role; each student prepares a three-minute presentation
+Each student chooses their own *initial* design team role; each student prepares a two-minute presentation
 
 ###  Chapter 3: Project Planning
 

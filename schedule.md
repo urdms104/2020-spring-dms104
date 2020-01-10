@@ -2,7 +2,15 @@
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
 - **Thursday, January 16, 2020**
-  - [ ] Class 1: Introduction and Overview of the Course
+  - Class 1: Introduction and Overview of the Course
+  - [Slack for Classroom Communication (PDF)](01-Introduction/slack-for-classroom-communication.pdf)
+  - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
+  - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
+  - [ ] Read Chapter 2: Assembling the Team (p15-32)
+  - [ ] Checkpoint 1: Introduction [in Slack, in the #chatter channel](https://app.slack.com/client/TS485SS6R/CS3PUNWFN) (due: Tuesday, January 21)
+  - [ ] [Checkpoint 2: Team Role Presentation](checkpoint02-team-role-presentation/instructions.md) 
+    - File, turned-in on Blackboard: Monday, January 20
+    - Presentation ready to deliver: Tuesday, January 21
 
 <hr>
 
