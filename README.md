@@ -7,7 +7,11 @@ Design in the Digital Age
 
 ## Current topic
 
+- [Everyone's presentation slides (PDF, 118 MB file ...large!)](02-team-intro-presentations/everyones-presentations.pdf) from **Checkpoint 2: Team Role Presentation**, Tuesday, January 21
 - Notice, if interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf)
+  - Limited space; don't sign-up unless...
+  - You can commit to going to all three sessions
+  - This is **not** for students with only a passing interest in videography; if you're not sure, leave the open slots for other students who are really passionate about videography
 - Thursday, January 16: **Introduction and Overview of the Course**
   - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
