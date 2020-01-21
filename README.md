@@ -7,7 +7,7 @@ Design in the Digital Age
 
 ## Current topic
 
-- [Everyone's presentation slides (PDF, 118 MB file ...large!)](02-team-intro-presentations/everyones-presentations.pdf) from **Checkpoint 2: Team Role Presentation**, Tuesday, January 21
+- [Everyone's presentation slides (PDF, 100 MB file ...large!)](02-team-intro-presentations/everyones-presentations.pdf) from **Checkpoint 2: Team Role Presentation**, Tuesday, January 21
 - Notice, if interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf)
   - Limited space; don't sign-up unless...
   - You can commit to going to all three sessions
