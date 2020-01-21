@@ -7,6 +7,7 @@ Design in the Digital Age
 
 ## Current topic
 
+- Notice, if interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf)
 - Thursday, January 16: **Introduction and Overview of the Course**
   - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
