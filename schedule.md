@@ -16,11 +16,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Tuesday, January 21, 2020**
   - Class 2: Team Role Presentations
-  - [Everyone's presentation slides (PDF, 118 MB file ...large!)](02-team-intro-presentations/everyones-presentations.pdf) from **Checkpoint 2: Team Role Presentation**, Tuesday, January 21
-    - Notice, if interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf)
-      - Limited space; don't sign-up unless...
-      - You can commit to going to all three sessions
-      - This is **not** for students with only a passing interest in videography; if you're  not sure, leave the open slots for other students who are really passionate about videography
+  - [ ] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
   
 - **Thursday, January 23, 2020**
   - Class 3: Team "Storming"
