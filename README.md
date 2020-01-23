@@ -4,14 +4,12 @@ Design in the Digital Age
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)  &lArr; here be: slides, assignments, and related links
 - [Book Overview](book-overview.md)
-- If interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf) 
-  - NOTE: limited space; don't sign-up unless...
-  - You can commit to going to all three sessions
-  - This is **not** for students with only a passing interest in videography; if you're not sure, leave the open slots for other students who are really passionate about videography
+- <s>If interested: [Videography Workshops (PDF)](02-team-intro-presentations/videography-workshops.pdf)</s> (cancelled; hopefully rescheduled soon!)
 
 ## Current topic
 
 - Thursday, January 23: **Team "Storming"**
+  - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
 
 ## Current assignment(s)
 
