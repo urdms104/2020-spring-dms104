@@ -50,7 +50,7 @@ Also note: even if you follow all the criteria listed below, your idea might not
   
 - [ ] Must have a computer/digital interface (remember this course is in the DIGITAL Media Studies program  - digital means computerized)
   - The interface does not necessarily mean it has to have a screen; e.g. touch-sensitive surfaces; motion detectors ...there are lots of choices!
-- Again, you don't have to pick those things at this point!  Just know, those are decisions you'll need to make later, for whatever you design. 
+  - Again, you don't have to pick those things at this point!  Just know, those are decisions you'll need to make later, for whatever you design. 
   
 - [ ] Must be interactive – changeable based on situations/conditions
   - The project idea must have multiple "states", meaning it must change in some way based on user input
@@ -71,7 +71,7 @@ Your team must **put together a few slides** and be prepared to deliver a **FIVE
 - The grade will not be focused on the greatness of the idea, rather it's viability for DMS 104 (pass/fail), and your ability to present the idea on Tuesday (based on the presentation rubric)
 - Note: this will be a "checkpoint" assignment ...i.e. it's low stakes, but still graded
 
-*HINT: whoever shows your team's slides should practice connecting to the projector in Gavett 301 BEFORE presentation day.  Any technical problems are your fault!
+*HINT: whoever shows your team's slides should practice connecting to the projector in Gavett 301 BEFORE presentation day.  Any technical problems are your fault!*
 
 ### Presentation Guidelines
 
