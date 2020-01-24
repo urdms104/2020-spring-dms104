@@ -50,7 +50,8 @@ Also note: even if you follow all the criteria listed below, your idea might not
   
 - [ ] Must have a computer/digital interface (remember this course is in the DIGITAL Media Studies program  - digital means computerized)
   - The interface does not necessarily mean it has to have a screen; e.g. touch-sensitive surfaces; motion detectors ...there are lots of choices!
-
+- Again, you don't have to pick those things at this point!  Just know, those are decisions you'll need to make later, for whatever you design. 
+  
 - [ ] Must be interactive – changeable based on situations/conditions
   - The project idea must have multiple "states", meaning it must change in some way based on user input
 - E.g. digital tea pot: on, off, what kind of tea? how much to make (quantity)? ...stuff like that (not just on/off)
