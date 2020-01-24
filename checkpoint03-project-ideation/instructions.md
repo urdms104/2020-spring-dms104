@@ -46,7 +46,7 @@ Also note: even if you follow all the criteria listed below, your idea might not
   - Things the user will touch, see, and interact with
   - Things to design will include: color, weight, size/shape, durability, power constraints, materials to be used in manufacturing ...stuff like that
   - Note: you don't have to decide all those things at this point ...that's what you'll be working on all semester long!
-- Note: the idea cannot be just software or a website; it has to have a *unique* physical presence (which also means you can't just say it'll be used on a smart phone or tablet ...those things have already been designed!)
+  - Note: the idea cannot be just software or a website; it has to have a *unique* physical presence (which also means you can't just say it'll be used on a smart phone or tablet ...those things have already been designed!)
   
 - [ ] Must have a computer/digital interface (remember this course is in the DIGITAL Media Studies program  - digital means computerized)
   - The interface does not necessarily mean it has to have a screen; e.g. touch-sensitive surfaces; motion detectors ...there are lots of choices!
@@ -54,7 +54,7 @@ Also note: even if you follow all the criteria listed below, your idea might not
   
 - [ ] Must be interactive – changeable based on situations/conditions
   - The project idea must have multiple "states", meaning it must change in some way based on user input
-- E.g. digital tea pot: on, off, what kind of tea? how much to make (quantity)? ...stuff like that (not just on/off)
+  - E.g. digital tea pot: on, off, what kind of tea? how much to make (quantity)? ...stuff like that (not just on/off)
   
 - [ ] Must be reasonably feasible
   - Even though we won't necessarily build your idea this semester, it must be something that *could* be built; i.e. no magic; the idea must be feasible using technology that exists today
