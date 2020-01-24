@@ -45,6 +45,7 @@ Also note: even if you follow all the criteria listed below, your idea might not
 - [ ] Must have a physical component
   - Things the user will touch, see, and interact with
   - Things to design will include: color, weight, size/shape, durability, power constraints, materials to be used in manufacturing ...stuff like that
+  - Note: you don't have to decide all those things at this point ...that's what you'll be working on all semester long!
 - Note: the idea cannot be just software or a website; it has to have a *unique* physical presence (which also means you can't just say it'll be used on a smart phone or tablet ...those things have already been designed!)
   
 - [ ] Must have a computer/digital interface (remember this course is in the DIGITAL Media Studies program  - digital means computerized)
