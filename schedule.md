@@ -1,8 +1,7 @@
 # **Schedule**
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-- **Thursday, January 16, 2020**
-  - Class 1: Introduction and Overview of the Course
+- **Thursday, January 16, 2020** Class 1: Introduction and Overview of the Course
   - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
@@ -14,44 +13,44 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, January 21, 2020**
-  - Class 2: Team Role Presentations
+- **Tuesday, January 21, 2020 **Class 2: Team Role Presentations
   - [ ] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
   
-- **Thursday, January 23, 2020**
-  - Class 3: Team "Storming"
+- **Thursday, January 23, 2020** Class 3: Team "Storming"
+  - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
+  - [ ] [Checkpoint 3: Project Ideation](checkpoint03-project-ideation/instructions.md) (due: Tuesday, January 28)
 
 <hr>
 
 - **Tuesday, January 28, 2020**
-  - [ ] Class 4: Idea Generation and Selection
+  - Class 4: Ideation Presentations
 
 - **Thursday, January 30, 2020**
-  - [ ] Class 5: Marketing Requirements Document (MRD)
+  - Class 5: Marketing Requirements Document (MRD)
 
 <hr>
 
 - **Tuesday, February 4, 2020**
-  - [ ] Class 6: MRD Presentations
+  - Class 6: MRD Presentations
 
 - **Thursday, February 6, 2020**
-  - [ ] Class 7: Research Overview
+  - Class 7: Research Overview
 
 <hr>
 
 - **Tuesday, February 11, 2020**
-  - [ ] Class 8: Stakeholder Planning
+  - Class 8: Stakeholder Planning
 
 - **Thursday, February 13, 2020**
-  - [ ] Class 9: Research Prep
+  - Class 9: Research Prep
 
 <hr>
 
 - **Tuesday, February 18, 2020**
-  - [ ] Class 10: Focus Groups, part 1
+  - Class 10: Focus Groups, part 1
 
 - **Thursday, February 20, 2020**
-  - [ ] Class 11: Focus Groups, part 2
+  - Class 11: Focus Groups, part 2
 
 <hr>
 
