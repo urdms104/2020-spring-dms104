@@ -90,7 +90,7 @@ Outside of the classroom sessions, students need to: read/study assigned section
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **20%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
-| **Project** Students will design an interactive digital product in three parts over the course of the semester<br><br>Project 1 - User and Domain Analysis<br/>Project 2 - Design Vision<br/>Project 3 - Form & Behavior Specification (Detailed Design) | **50%** The three parts of the design process will require students to work in  teams to deliver each projects <br/>20%<br/>15%<br/>15% |
+| **Project** Students will design an interactive digital product in four parts over the course of the semester<br><br>Project 1 - Marketing Requirements Document<br/>Project 2 - User and Domain Analysis<br/>Project 3 - Design Vision<br/>Project 4 - Form & Behavior Specification (Detailed Design) | **50%** The four parts of the design process will require students to work in  teams to deliver each project <br/>5%<br>20%<br/>12%<br/>13% |
 | **Exams**<br/>Midterm<br/>Final                              | **30%**<br/>15%<br/>15%                                      |
 
 ### Due Dates
