@@ -5,7 +5,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
-  - [ ] Read Chapter 2: Assembling the Team (p15-32)
+  - [ ] Homework: **read Chapter 2**: Assembling the Team (p15-32) (required to be read by Tuesday, January 21)
   - [ ] Checkpoint 1: Introduction [in Slack, in the #chatter channel](https://app.slack.com/client/TS485SS6R/CS3PUNWFN) (due: Tuesday, January 21)
   - [ ] [Checkpoint 2: Team Role Presentation](checkpoint02-team-role-presentation/instructions.md) 
     - File, turned-in on Blackboard: Monday, January 20
@@ -13,7 +13,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, January 21, 2020 **Class 2: Team Role Presentations
+- **Tuesday, January 21, 2020** Class 2: Team Role Presentations
   - [ ] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
   
 - **Thursday, January 23, 2020** Class 3: Team "Storming"
@@ -22,8 +22,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, January 28, 2020**
-  - Class 4: Ideation Presentations
+- **Tuesday, January 28, 2020** Class 4: Ideation Presentations
+  - Homework: **read Chapter 3** with particular focus on pages 35-39 (required to be read by Thursday, January 30)
 
 - **Thursday, January 30, 2020**
   - Class 5: Marketing Requirements Document (MRD)
