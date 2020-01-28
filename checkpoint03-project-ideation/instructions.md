@@ -62,7 +62,7 @@ Also note: even if you follow all the criteria listed below, your idea might not
 
 ## Presentation
 
-*Due: Tuesday, January 28* (does not need to be turned-in on Blackboard)
+*Due: Tuesday, January 28* <s>(does not need to be turned-in on Blackboard)</s> ...change!  See the instructions for turning-in this assignment at the bottom.
 
 Your team must **put together a few slides** and be prepared to deliver a **FIVE MINUTE** presentation about your team's idea(s) to the class
 
@@ -85,3 +85,11 @@ You don't have to get fancy here or create any new graphics (although that'd be 
   - The interactivity (what changes state based on what condition; e.g. on, off, what kind of tea? how much to make, et cetera)
 
 ...above all, remember you're NOT designing the idea here!  (That's what we'll do for the rest of the semester.) You're just describing an idea on one or two slides, delivered in five minutes or so.
+
+## Presentation Turn-in
+
+(NEW!) The presentation file needs to be turned-in.
+
+- [ ] ONE team member (typically the Team Lead) needs to make a submission in Blackboard for this assignment so the entire team can be graded. In Blackboard, in the "Checkpoint turn-in" section you'll find **Checkpoint 3: Project Ideation**.  There, ONE TEAM MEMBER needs to upload the presentation file that was used in the Tuesday, January 28 class.
+
+NOTE: after the first person in any team makes a submission for this assignment, it's locked! So make sure everyone on the team knows who's supposed to upload the file. Everyone else doesn't need to do anything.
