@@ -13,4 +13,4 @@ Design in the Digital Age
 
 ## Current assignment(s)
 
-- [ ] **Project 1: Marketing Requirements Document (MRD)** (instructions coming soon)
+- [ ] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)

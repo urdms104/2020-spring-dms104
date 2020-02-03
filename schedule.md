@@ -23,12 +23,15 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Tuesday, January 28, 2020** Class 4: Ideation Presentations
-  
-- See the *Panopto* videos in Blackboard
+
+  - See the *Panopto* videos in Blackboard
   - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
   - Homework: **read Chapter 3** with particular focus on pages 35-39 (required to be read by Thursday, January 30)
 - **Thursday, January 30, 2020** Class 5: Marketing Requirements Document (MRD)
-  - [ ] **Project 1: Marketing Requirements Document (MRD)** (instructions coming soon)
+  
+  - In-class discussion and review about each design project; see the [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
+  - [MRD Examples](05-mrd/readme.md) from previous semesters
+  - [ ] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)
 
 <hr>
 
