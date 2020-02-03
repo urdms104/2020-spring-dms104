@@ -17,7 +17,7 @@ The requirements for what goes into the *Marketing Requirements Document* (MRD) 
 
 # Hints & Tips
 
-The following items are suggestions, but really each team can proceed however they want to complete this assignment.
+The following items are suggestions, but really you can proceed however you want to complete this assignment.
 
 - The **Team Lead** should create a shared document (Google Docs seems to work very well for this purpose) and fill it out with the usual formal document parts and a basic outline.
 
