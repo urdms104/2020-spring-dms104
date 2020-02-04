@@ -5,49 +5,56 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
-  - [ ] Homework: **read Chapter 2**: Assembling the Team (p15-32) (required to be read by Tuesday, January 21)
-  - [ ] Checkpoint 1: Introduction [in Slack, in the #chatter channel](https://app.slack.com/client/TS485SS6R/CS3PUNWFN) (due: Tuesday, January 21)
-  - [ ] [Checkpoint 2: Team Role Presentation](checkpoint02-team-role-presentation/instructions.md) 
+  - [x] Homework: **read Chapter 2**: Assembling the Team (p15-32) (required to be read by Tuesday, January 21)
+  - [x] Checkpoint 1: Introduction [in Slack, in the #chatter channel](https://app.slack.com/client/TS485SS6R/CS3PUNWFN) (due: Tuesday, January 21)
+  - [x] [Checkpoint 2: Team Role Presentation](checkpoint02-team-role-presentation/instructions.md) 
     - File, turned-in on Blackboard: Monday, January 20
     - Presentation ready to deliver: Tuesday, January 21
 
 <hr>
 
 - **Tuesday, January 21, 2020** Class 2: Team Role Presentations
-  - [ ] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
+  - [x] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
   
 - **Thursday, January 23, 2020** Class 3: Team "Storming"
   - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
-  - [ ] [Checkpoint 3: Project Ideation](checkpoint03-project-ideation/instructions.md) (due: Tuesday, January 28)
+  - [x] [Checkpoint 3: Project Ideation](checkpoint03-project-ideation/instructions.md) (due: Tuesday, January 28)
 
 <hr>
 
 - **Tuesday, January 28, 2020** Class 4: Ideation Presentations
-
+- [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
   - See the *Panopto* videos in Blackboard
-  - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
-  - Homework: **read Chapter 3** with particular focus on pages 35-39 (required to be read by Thursday, January 30)
+  - [x] Homework: **read Chapter 3** with particular focus on pages 35-39 (required to be read by Thursday, January 30)
+  
 - **Thursday, January 30, 2020** Class 5: Marketing Requirements Document (MRD)
   
   - In-class discussion and review about each design project; see the [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
   - [MRD Examples](05-mrd/readme.md) from previous semesters
-  - [ ] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)
+  - [x] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)
 
 <hr>
 
-- **Tuesday, February 4, 2020**
-  - Class 6: <s>MRD Presentations</s> TBD
-
+- **Tuesday, February 4, 2020** Class 6: Research Overview (lecture)
+  
+  - [Chapter 4: Research Overview; and Chapter 5: Understanding the Business (PDF)](06-research-overview/chapter4-and-5-summary.pdf)
+  - [Users Don't Know! (Alan Cooper video - YouTube)](https://youtu.be/sNWBnCazIcU)
+  
+  - [ ] Prepare for the Stakeholder Interviews (due: Thursday, February 6)
+    - **Read Chapter 5**: Understanding the Business (p65-83, with special attention to the section, "Conducting Stakeholder Interviews", p70-81)
+    - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
+  
 - **Thursday, February 6, 2020**
-  - Class 7: Research Overview
+  
+  - Class 7: Stakeholder Interviews
 
 <hr>
 
 - **Tuesday, February 11, 2020**
-  - Class 8: Stakeholder Planning
+  - Class 8: Research Prep
 
 - **Thursday, February 13, 2020**
-  - Class 9: Research Prep
+  - Class 9: Research Status Report
 
 <hr>
 

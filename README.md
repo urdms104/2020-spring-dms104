@@ -7,10 +7,12 @@ Design in the Digital Age
 
 ## Current topic
 
-- Thursday, January 30: **Marketing Requirements Document (MRD)**
-  - In-class discussion and review about each design project; see the [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
-  - [MRD Examples](05-mrd/readme.md) from previous semesters
+- Tuesday, February 4: **Research Overview (lecture)**
+  - [Chapter 4: Research Overview; and Chapter 5: Understanding the Business (PDF)](06-research-overview/chapter4-and-5-summary.pdf)
+  - [Users Don't Know! (Alan Cooper video - YouTube)](https://youtu.be/sNWBnCazIcU)
 
 ## Current assignment(s)
 
-- [ ] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)
+- Prepare for the Stakeholder Interviews (due: Thursday, February 6)
+  - **Read Chapter 5**: Understanding the Business (p65-83, with special attention to the section, "Conducting Stakeholder Interviews", p70-81)
+  - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
