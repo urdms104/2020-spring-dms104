@@ -45,7 +45,7 @@ Definition of the Marketing Requirement Document (MRD)
 
 
 - Assignment: read Chapter 3 (14 pages); learn about the MRD
-- <s>Project 1: Marketing Requirements Document</s>
+- Project 1: Marketing Requirements Document (MRD)
 
 ## Research
 
