@@ -43,10 +43,10 @@ This schedule is subject to modification throughout the semester. Always check w
   - [ ] Prepare for the Stakeholder Interviews (due: Thursday, February 6)
     - **Read Chapter 5**: Understanding the Business (p65-83, with special attention to the section, "Conducting Stakeholder Interviews", p70-81)
     - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
-  
-- **Thursday, February 6, 2020**
-  
-  - Class 7: Stakeholder Interviews
+- **Thursday, February 6, 2020** Class 7: Stakeholder Interviews
+
+  - [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4*, due by Tuesday, February 11)
+  - [ ] Prepare for Focus Groups (details coming soon)
 
 <hr>
 

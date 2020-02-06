@@ -4,15 +4,21 @@ Design in the Digital Age
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)  &lArr; here be: slides, assignments, and related links
 - [Book Overview](book-overview.md)
+- [City Team Presentations and Project Files](files.md)
 
 ## Current topic
 
-- Tuesday, February 4: **Research Overview (lecture)**
-  - [Chapter 4: Research Overview; and Chapter 5: Understanding the Business (PDF)](06-research-overview/chapter4-and-5-summary.pdf)
-  - [Users Don't Know! (Alan Cooper video - YouTube)](https://youtu.be/sNWBnCazIcU)
+- Thursday, February 6: **Stakeholder Interviews**
+  - Randomly generated order:
+    1. Miami
+    2. Phildelphia
+    3. Manhattan
+    4. Brooklyn
+    5. Seattle 
+    6. Istanbul
+    7. Scranton
 
 ## Current assignment(s)
 
-- Prepare for the Stakeholder Interviews (due: Thursday, February 6)
-  - **Read Chapter 5**: Understanding the Business (p65-83, with special attention to the section, "Conducting Stakeholder Interviews", p70-81)
-  - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
+- [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4*, due by Tuesday, February 11)
+- [ ] Prepare for Focus Groups (details coming soon)
