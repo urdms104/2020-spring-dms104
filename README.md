@@ -9,14 +9,14 @@ Design in the Digital Age
 ## Current topic
 
 - Thursday, February 6: **Stakeholder Interviews**
-  - Randomly generated order:
-    1. Miami
-    2. Phildelphia
-    3. Manhattan
-    4. Brooklyn
-    5. Seattle 
-    6. Istanbul
-    7. Scranton
+  Randomly generated order:
+  1. Miami
+  2. Phildelphia
+  3. Manhattan
+  4. Brooklyn
+  5. Seattle 
+  6. Istanbul
+  7. Scranton
 
 ## Current assignment(s)
 
