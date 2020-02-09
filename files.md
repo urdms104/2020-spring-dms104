@@ -20,7 +20,7 @@ Each City Team submitted their MRDs on Tuesday, February 4
 - [**Brooklyn**: Digital Dorm Light (PDF)](files/brooklynMRD.pdf)
 - [**Istanbul**: Auto Medicine Dispensary (PDF)](files/istanbulMRD.pdf)
 - [**Manhattan**: Digital Tie Machine (PDF)](files/manhattanMRD.pdf)
-- **Miami**: Health Pets (coming soon)
+- [**Miami**: Health Pets (PDF)](files/miamiMRDv2.pdf)
 - **Philadelphia**: Digital Water Bottle (coming soon)
 - [**Scranton**: Mood Cube (PDF)](files/scrantonMRD.pdf)
 - [**Seattle**: Light Skating (PDF)](files/seattleMRD.pdf)
