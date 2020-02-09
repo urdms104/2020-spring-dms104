@@ -11,7 +11,7 @@ Design in the Digital Age
 - Thursday, February 6: **Stakeholder Interviews**
   - Randomly generated order:
     1. Miami
-    2. Phildelphia
+    2. Philadelphia
     3. Manhattan
     4. Brooklyn
     5. Seattle
@@ -20,5 +20,5 @@ Design in the Digital Age
 
 ## Current assignment(s)
 
-- [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4*, due by Tuesday, February 11)
+- [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4* in Blackboard, due by Tuesday, February 11)
 - [ ] Prepare for Focus Groups (details coming soon)
