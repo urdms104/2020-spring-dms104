@@ -45,16 +45,28 @@ This schedule is subject to modification throughout the semester. Always check w
     - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
 - **Thursday, February 6, 2020** Class 7: Stakeholder Interviews
 
+  - Randomly generated order:
+  1. Miami
+    2. Philadelphia
+    3. Manhattan
+    4. Brooklyn
+    5. Seattle
+    6. Istanbul
+    7. Scranton
   - [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4* in Blackboard, due by Tuesday, February 11)
-  - [ ] Prepare for Focus Groups (details coming soon)
 
 <hr>
 
-- **Tuesday, February 11, 2020**
-  - Class 8: Research Prep
-
+- **Tuesday, February 11, 2020** Class 8: Research Prep
+  
+- [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
+  - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
+  - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
+  - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
+  - [ ] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday
+  - [ ] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday 
 - **Thursday, February 13, 2020**
-  - Class 9: Research Status Report
+  - Class 9: Research Status Reviews
 
 <hr>
 

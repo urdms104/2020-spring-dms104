@@ -8,17 +8,14 @@ Design in the Digital Age
 
 ## Current topic
 
-- Thursday, February 6: **Stakeholder Interviews**
-  - Randomly generated order:
-    1. Miami
-    2. Philadelphia
-    3. Manhattan
-    4. Brooklyn
-    5. Seattle
-    6. Istanbul
-    7. Scranton
+- Tuesday, February 11: **Research Planning**
+  - [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
+  - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
+  - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
+  - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
 
 ## Current assignment(s)
 
-- [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4* in Blackboard, due by Tuesday, February 11)
-- [ ] Prepare for Focus Groups (details coming soon)
+- [ ] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday
+- [ ] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday 
+
