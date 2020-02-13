@@ -15,6 +15,7 @@ Design in the Digital Age
 
 ## Current assignment(s)
 
-- [x] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday, February 13
-- [x] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday, February 13
+- [ ] Watch Slack for the **Focus Group Participant Selection** process (coming soon)
+  - City Teams can invite guests for their Focus Group
+  - Line-up Focus Group guests for 12:30 - 1:45 PM on either Tuesday, February 18 or Thursday, February 20
 

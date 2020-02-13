@@ -65,12 +65,17 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
   - [x] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday, February 13
   - [x] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday, February 13 
+  
 - **Thursday, February 13, 2020** Class 9: Research Status Reviews
   
   - In-class discussions, each team will report:
   
     - What roles have you identified for your product?
     - What discussion starters do you plan to ask your focus groups
+  
+  - [ ] Watch Slack for the **Focus Group Participant Selection** process (coming soon)
+    - City Teams can invite guests for their Focus Group
+    - Line-up Focus Group guests for 12:30 - 1:45 PM on either Tuesday, February 18 or Thursday, February 20
 
 <hr>
 
