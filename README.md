@@ -8,14 +8,13 @@ Design in the Digital Age
 
 ## Current topic
 
-- Tuesday, February 11: **Research Planning**
-  - [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
-  - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
-  - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
-  - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
+- Thursday, February 13: **Research Status Reviews**
+  - In-class discussions, each team will report:
+    - What roles have you identified for your product?
+    - What discussion starters do you plan to ask your focus groups
 
 ## Current assignment(s)
 
-- [ ] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday
-- [ ] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday 
+- [x] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday, February 13
+- [x] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday, February 13
 

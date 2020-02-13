@@ -53,20 +53,24 @@ This schedule is subject to modification throughout the semester. Always check w
     5. Seattle
     6. Istanbul
     7. Scranton
-  - [ ] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4* in Blackboard, due by Tuesday, February 11)
+  - [x] Each City Team is required to turn-in their meeting notes from their stakeholder interview (graded as *Checkpoint 4* in Blackboard, due by Tuesday, February 11)
 
 <hr>
 
 - **Tuesday, February 11, 2020** Class 8: Research Prep
-  
-- [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
+
+  - [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
   - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
   - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
   - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
-  - [ ] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday
-  - [ ] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday 
-- **Thursday, February 13, 2020**
-  - Class 9: Research Status Reviews
+  - [x] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday, February 13
+  - [x] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday, February 13 
+- **Thursday, February 13, 2020** Class 9: Research Status Reviews
+  
+  - In-class discussions, each team will report:
+  
+    - What roles have you identified for your product?
+    - What discussion starters do you plan to ask your focus groups
 
 <hr>
 
