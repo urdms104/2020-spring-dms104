@@ -58,8 +58,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Tuesday, February 11, 2020** Class 8: Research Prep
-
-  - [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
+- [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
   - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
   - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
   - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
@@ -73,22 +72,32 @@ This schedule is subject to modification throughout the semester. Always check w
     - What roles have you identified for your product?
     - What discussion starters do you plan to ask your focus groups
   
-  - [ ] Watch Slack for the **Focus Group Participant Selection** process (coming soon)
+  - [x] Do the [Focus Group Participant Selection process (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) (due: Tuesday, February 18)
     - City Teams can invite guests for their Focus Group
     - Line-up Focus Group guests for 12:30 - 1:45 PM on either Tuesday, February 18 or Thursday, February 20
 
 <hr>
 
-- **Tuesday, February 18, 2020**
-  - Class 10: Focus Groups, part 1
+- **Tuesday, February 18, 2020** Class 10: Focus Groups, part 1
 
-- **Thursday, February 20, 2020**
-  - Class 11: Focus Groups, part 2
+  - City Team: **Seattle - Light Skating** - 12:35 - 12:45 PM
+  - City Team: **Miami - Health Pets** - 12:50 - 1:00 PM
+  - City Team: tbd - 1:05 - 1:15 PM
+  - City Team: tbd - 1:20 - 1:30 PM
+  - City Team: tbd - 1:35 - 1:45 PM
+  - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153, due: Tuesday, February 25)
+- **Thursday, February 20, 2020** Class 11: Focus Groups, part 2
+
+  - City Team: tbd - 12:35 - 12:45 PM
+  - City Team: tbd - 12:50 - 1:00 PM
+  - City Team: **Brooklyn - Digital Dorm Light** - 1:05 - 1:15 PM
+  - City Team: **Scranton - Mood Cube** - 1:20 - 1:30 PM
+  - City Team: tbd - 1:35 - 1:45 PM
 
 <hr>
 
 - **Tuesday, February 25, 2020**
-  - [ ] Class 12: Modeling and Personas
+  - [ ] Class 12: User and Customer Research
 
 - **Thursday, February 27, 2020**
   - [ ] Class 13: User & Domain Analysis (U&DA)

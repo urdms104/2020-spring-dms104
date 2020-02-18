@@ -8,14 +8,15 @@ Design in the Digital Age
 
 ## Current topic
 
-- Thursday, February 13: **Research Status Reviews**
-  - In-class discussions, each team will report:
-    - What roles have you identified for your product?
-    - What discussion starters do you plan to ask your focus groups
+- Tuesday, February 18: **Focus Groups, part 1**
+  - [Focus Group Participant Selections (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) 
+  - City Team: **Seattle - Light Skating** - 12:35 - 12:45 PM
+  - City Team: **Miami - Health Pets** - 12:50 - 1:00 PM
+  - City Team: tbd - 1:05 - 1:15 PM
+  - City Team: tbd - 1:20 - 1:30 PM
+  - City Team: tbd - 1:35 - 1:45 PM
 
 ## Current assignment(s)
 
-- [ ] Watch Slack for the **Focus Group Participant Selection** process (coming soon)
-  - City Teams can invite guests for their Focus Group
-  - Line-up Focus Group guests for 12:30 - 1:45 PM on either Tuesday, February 18 or Thursday, February 20
-
+- [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
+  - Required in one week: Tuesday, February 25
