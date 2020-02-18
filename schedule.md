@@ -72,7 +72,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - What roles have you identified for your product?
     - What discussion starters do you plan to ask your focus groups
   
-  - [x] Do the [Focus Group Participant Selection process (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) (due: Tuesday, February 18)
+  - [x] Fill-in the [Focus Group Participant Selection process (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) (due: Tuesday, February 18)
     - City Teams can invite guests for their Focus Group
     - Line-up Focus Group guests for 12:30 - 1:45 PM on either Tuesday, February 18 or Thursday, February 20
 
@@ -80,11 +80,11 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Tuesday, February 18, 2020** Class 10: Focus Groups, part 1
 
+  - [Focus Group Participant Selections (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) 
   - City Team: **Seattle - Light Skating** - 12:35 - 12:45 PM
   - City Team: **Miami - Health Pets** - 12:50 - 1:00 PM
-  - City Team: tbd - 1:05 - 1:15 PM
-  - City Team: tbd - 1:20 - 1:30 PM
-  - City Team: tbd - 1:35 - 1:45 PM
+  - City Team: **Istanbul - Auto. Med Dispenser** - 1:05 - 1:15 PM
+  - City Team: **Philadelphia - Digital Water Bottle** - 1:20 - 1:30 PM
   - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153, due: Tuesday, February 25)
 - **Thursday, February 20, 2020** Class 11: Focus Groups, part 2
 

@@ -12,9 +12,8 @@ Design in the Digital Age
   - [Focus Group Participant Selections (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) 
   - City Team: **Seattle - Light Skating** - 12:35 - 12:45 PM
   - City Team: **Miami - Health Pets** - 12:50 - 1:00 PM
-  - City Team: tbd - 1:05 - 1:15 PM
-  - City Team: tbd - 1:20 - 1:30 PM
-  - City Team: tbd - 1:35 - 1:45 PM
+  - City Team: **Istanbul - Auto. Med Dispenser** - 1:05 - 1:15 PM
+  - City Team: **Philadelphia - Digital Water Bottle** - 1:20 - 1:30 PM
 
 ## Current assignment(s)
 
