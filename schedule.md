@@ -1,8 +1,8 @@
 # **Schedule**
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-- **Thursday, January 16, 2020** Class 1: Introduction and Overview of the Course
-  - [Slack for Classroom Communication (PDF)](01-introduction/slack-for-classroom-communication.pdf)
+- **Thursday, January 16, 2020** Workshop 1: Introduction and Overview of the Course
+  - [Slack for Workshoproom Communication (PDF)](01-introduction/slack-for-Workshoproom-communication.pdf)
   - [Introduction to the Course (PDF](01-introduction/introduction.pdf))
   - [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf)
   - [x] Homework: **read Chapter 2**: Assembling the Team (p15-32) (required to be read by Tuesday, January 21)
@@ -13,29 +13,31 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, January 21, 2020** Class 2: Team Role Presentations
+- **Tuesday, January 21, 2020** Workshop 2: Team Role Presentations
   - [x] [Homework: Team Forming & Storming](03-storming/storming.md) (due: Thursday, January 23)
   
-- **Thursday, January 23, 2020** Class 3: Team "Storming"
+- **Thursday, January 23, 2020** Workshop 3: Team "Storming"
   - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
   - [x] [Checkpoint 3: Project Ideation](checkpoint03-project-ideation/instructions.md) (due: Tuesday, January 28)
 
 <hr>
 
-- **Tuesday, January 28, 2020** Class 4: Ideation Presentations
-- [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
-  - See the *Panopto* videos in Blackboard
+- **Tuesday, January 28, 2020** Workshop 4: Ideation Presentations
+
+  - [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
+    
+    - See the *Panopto* videos in Blackboard
   - [x] Homework: **read Chapter 3** with particular focus on pages 35-39 (required to be read by Thursday, January 30)
+
+- **Thursday, January 30, 2020** Workshop 5: Marketing Requirements Document (MRD)
   
-- **Thursday, January 30, 2020** Class 5: Marketing Requirements Document (MRD)
-  
-  - In-class discussion and review about each design project; see the [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
+  - In-Workshop discussion and review about each design project; see the [City-Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1UbdBF9IbIszRgiBGJvKIZuRk87naHoRm23v-MqI_drE/edit#gid=0)
   - [MRD Examples](05-mrd/readme.md) from previous semesters
   - [x] [Project 1: Marketing Requirements Document (MRD)](project01-mrd/instructions.md) (due: Tuesday, February 4)
 
 <hr>
 
-- **Tuesday, February 4, 2020** Class 6: Research Overview (lecture)
+- **Tuesday, February 4, 2020** Workshop 6: Research Overview (lecture)
   
   - [Chapter 4: Research Overview; and Chapter 5: Understanding the Business (PDF)](06-research-overview/chapter4-and-5-summary.pdf)
   - [Users Don't Know! (Alan Cooper video - YouTube)](https://youtu.be/sNWBnCazIcU)
@@ -43,7 +45,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [x] Prepare for the Stakeholder Interviews (due: Thursday, February 6)
     - **Read Chapter 5**: Understanding the Business (p65-83, with special attention to the section, "Conducting Stakeholder Interviews", p70-81)
     - NOTE: each City Team will be required to turn-in their meeting notes from Thursday's stakeholder interviews (graded as a *checkpoint*)
-- **Thursday, February 6, 2020** Class 7: Stakeholder Interviews
+- **Thursday, February 6, 2020** Workshop 7: Stakeholder Interviews
 
   - Randomly generated order:
   1. Miami
@@ -57,17 +59,18 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, February 11, 2020** Class 8: Research Prep
-- [Research Phase, Continued (PDF)](08-research-planning/reseach-phase-continued.pdf)
+- **Tuesday, February 11, 2020** Workshop 8: Research Prep
+
+  - [Research Phase, continued - Chapter 6 Overview (PDF)](08-research-planning/reseach-phase-continued.pdf)
   - [Focus Groups - TED-Ed (YouTube)](https://www.youtube.com/watch?v=3TwgVQIZPsw)
   - [Preparing for Focus Groups (YouTube)](https://www.youtube.com/watch?v=VSwTvkTsOvI)
   - [Krueger: Designing and Conducting Focus Group Interviews (PDF)](08-research-planning/krueger-focus-group-interviews.pdf)
   - [x] Read Chapter 6: Planning User Research - we will review each City Team's plans on Thursday, February 13
   - [x] Prepare to conduct a Focus Group - we will review each City Team's Focus Group plans on Thursday, February 13 
+
+- **Thursday, February 13, 2020** Workshop 9: Research Status Reviews
   
-- **Thursday, February 13, 2020** Class 9: Research Status Reviews
-  
-  - In-class discussions, each team will report:
+  - In-Workshop discussions, each team will report:
   
     - What roles have you identified for your product?
     - What discussion starters do you plan to ask your focus groups
@@ -78,7 +81,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, February 18, 2020** Class 10: Focus Groups, part 1
+- **Tuesday, February 18, 2020** Workshop 10: Focus Groups, part 1
 
   - [Focus Group Participant Selections (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) 
   - City Team: **Seattle - Light Skating** - 12:35 - 12:45 PM
@@ -86,29 +89,31 @@ This schedule is subject to modification throughout the semester. Always check w
   - City Team: **Istanbul - Auto. Med Dispenser** - 1:05 - 1:15 PM
   - City Team: **Philadelphia - Digital Water Bottle** - 1:20 - 1:30 PM
   - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153, due: Tuesday, February 25)
-- **Thursday, February 20, 2020** Class 11: Focus Groups, part 2
-
-  - City Team: tbd - 12:35 - 12:45 PM
-  - City Team: tbd - 12:50 - 1:00 PM
+- **Thursday, February 20, 2020** Workshop 11: Focus Groups, part 2
+- City Team: **Manhattan - Digital Tie Machine** - 12:35 - 12:45 PM
   - City Team: **Brooklyn - Digital Dorm Light** - 1:05 - 1:15 PM
   - City Team: **Scranton - Mood Cube** - 1:20 - 1:30 PM
-  - City Team: tbd - 1:35 - 1:45 PM
+  - [Research Phase, continued - Chapter 7 Overview (PDF)](11-focus-groups2/chapter7-summary.pdf)
+  
+- [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
+    - We will review each City Team's plans on Tuesday, February 25
+    - Each City Team: fill-out online template (a Google Doc) ...coming soon (due: Tuesday, February 25)
 
 <hr>
 
 - **Tuesday, February 25, 2020**
-  - [ ] Class 12: User and Customer Research
+  - [ ] Workshop 12: User and Customer Research Planning
 
 - **Thursday, February 27, 2020**
-  - [ ] Class 13: User & Domain Analysis (U&DA)
+  - [ ] Workshop 13: CANCELLED (while teams work on interviews)
 
 <hr>
 
 - **Tuesday, March 3, 2020**
-  - [ ] Class 14: Midterm Review
+  - [ ] Workshop 14: Midterm Review
 
 - **Thursday, March 5, 2020**
-  - [ ] Class 15: Midterm Exam
+  - [ ] Workshop 15: Midterm Exam
 
 <hr>
 
@@ -121,55 +126,55 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Tuesday, March 17, 2020**
-  - [ ] Class 16: Requirements and Context Scenarios
+  - [ ] Workshop 16: Requirements and Context Scenarios
 
 - **Thursday, March 19, 2020**
-  - [ ] Class 17: Requirements Workshop
+  - [ ] Workshop 17: Requirements Workshop
 
 <hr>
 
 - **Tuesday, March 24, 2020**
-  - [ ] Class 18: Framework & Design Language
+  - [ ] Workshop 18: Framework & Design Language
 
 - **Thursday, March 26, 2020**
-  - [ ] Class 19: Form & Behavior Specification (F&BS)
+  - [ ] Workshop 19: Form & Behavior Specification (F&BS)
 
 <hr>
 
 - **Tuesday, March 31, 2020**
-  - [ ] Class 20: Detailed Design
+  - [ ] Workshop 20: Detailed Design
 
 - **Thursday, April 2, 2020**
-  - [ ] Class 21: Tools Workshop
+  - [ ] Workshop 21: Tools Workshop
 
 <hr>
 
 - **Tuesday, April 7, 2020**
-  - [ ] Class 22: Open Lab
+  - [ ] Workshop 22: Open Lab
 
 - **Thursday, April 9, 2020**
-  - [ ] Class 23: Open Lab
+  - [ ] Workshop 23: Open Lab
 
 <hr>
 
 - **Tuesday, April 14, 2020**
-  - [ ] Class 24: Final Presentations, part 1
+  - [ ] Workshop 24: Final Presentations, part 1
 
 - **Thursday, April 16, 2020**
-  - [ ] Class 25: Final Presentations, part 2
+  - [ ] Workshop 25: Final Presentations, part 2
 
 <hr>
 
 - **Tuesday, April 21, 2020**
-  - [ ] Class 26: Final Presentations, part 3
+  - [ ] Workshop 26: Final Presentations, part 3
 
 - **Thursday, April 23, 2020**
-  - [ ] Class 27: Final Review
+  - [ ] Workshop 27: Final Review
 
 <hr>
 
 - **Tuesday, April 28, 2020**
-  - [ ] Class 28: Final Exam
+  - [ ] Workshop 28: Final Exam
 
 *Note: there is nothing scheduled in Exam Week for DMS 104 (the exams are in the regularly scheduled labs)*
 
