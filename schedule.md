@@ -96,8 +96,8 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Research Phase, continued - Chapter 7 Overview (PDF)](11-focus-groups2/chapter7-summary.pdf)
   
 - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
+    - Each City Team: fill-out [Individual Interview Planning Worksheet (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) (due: Tuesday, February 25)
     - We will review each City Team's plans on Tuesday, February 25
-    - Each City Team: fill-out online template (a Google Doc) ...coming soon (due: Tuesday, February 25)
 
 <hr>
 
