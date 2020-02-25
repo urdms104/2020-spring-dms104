@@ -8,15 +8,18 @@ Design in the Digital Age
 
 ## Current topic
 
-- Thursday, February 20: **Focus Groups, part 2**
-  - [Focus Group Participant Selections (Google Sheet)](https://docs.google.com/spreadsheets/d/1IUnaxLFkVptcTrJHvcbGHllSKqO3zhvNlPM9VCxU8rE) 
-  - City Team: **Manhattan - Digital Tie Machine** - 12:35 - 12:45 PM
-  - City Team: **Brooklyn - Digital Dorm Light** - 1:05 - 1:15 PM
-  - City Team: **Scranton - Mood Cube** - 1:20 - 1:30 PM
-  - [Research Phase, continued - Chapter 7 Overview (PDF)](11-focus-groups2/chapter7-summary.pdf)
+- Tuesday, February 25: **Research Status Review, part 2**
+  - Review:  [Individual Interview Planning Worksheets (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) 
+  - [Research Phase, continued - Chapter 9 Overview (PDF)](12-research-planning2/chapter9-summary.pdf)
 
 ## Current assignment(s)
 
-- [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
-  - Each City Team: fill-out [Individual Interview Planning Worksheet (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) (due: Tuesday, February 25)
-  - We will review each City Team's plans on Tuesday, February 25
+- [ ] Read **Chapter 9: Other Sources of Information and Inspiration** (entire chapter - 16 pages, p183-199)
+- [ ] As a team: **Conduct Individual Interviews** (at least four), and **other sources of information and inspiration** (at least two)
+  - Due date for all research (interviews and other): **Tuesday, March 17, 2020**
+- [ ] Keep/maintain an **individual DMS 104 work log**
+  - Log meetings; who attended; and outcomes, who attended; who did what
+  - Focus on team members (not so much yourself)
+  - Doesn't have to be an exhaustive/detailed account; just an overview of the important steps
+  - Hold on to this information; you'll need it after we complete Project 2
+
