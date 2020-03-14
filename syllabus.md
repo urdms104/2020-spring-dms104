@@ -17,9 +17,10 @@ Designing digital products and services requires a process of "Interaction Desig
 ### Office Hours
 
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms371.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor (and other students, optionally) will answer questions as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:
-  - Mondays, 2:00 - 3:00 PM
-  - Wednesdays, 11:00 AM - 12:00 PM
+- <s>Regular Office Hours: for non-technical help, the professor will be in his office in Wegmans Hall, room 2015:</s>
+  - <s>Mondays, 2:00 - 3:00 PM</s>
+  - <s>Wednesdays, 11:00 AM - 12:00 PM</s>
+  - **NEW: virtual office hours only**
 
 ## Communication
 
@@ -89,9 +90,9 @@ Outside of the classroom sessions, students need to: read/study assigned section
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **20%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
-| **Project** Students will design an interactive digital product in four parts over the course of the semester<br><br>Project 1 - Marketing Requirements Document<br/>Project 2 - User and Domain Analysis<br/>Project 3 - Design Vision<br/>Project 4 - Form & Behavior Specification (Detailed Design) | **50%** The four parts of the design process will require students to work in  teams to deliver each project <br/>5%<br>20%<br/>12%<br/>13% |
-| **Exams**<br/>Midterm<br/>Final                              | **30%**<br/>15%<br/>15%                                      |
+| **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | <s>20%</s> **25%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
+| **Project** Students will design an interactive digital product in four parts over the course of the semester<br><br>Project 1 - Marketing Requirements Document<br/>Project 2 - User and Domain Analysis<br/>Project 3 - Design Vision<br/>Project 4 - Form & Behavior Specification (Detailed Design) | <s>50%</s> **55%** The four parts of the design process will require students to work in  teams to deliver each project <br/><s>5%</s> **6%**<br><s>20%</s> **22%**<br/><s>12% </s> **13%**<br/><s>13%</s> **14%** |
+| **Exams**<br/>Midterm<br/><s>Final</s>                       | <s>30%</s> **20%**<br/><s>15%</s> 20%<br/><s>15%</s>         |
 
 ### Due Dates
 

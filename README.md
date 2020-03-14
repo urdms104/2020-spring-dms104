@@ -16,7 +16,7 @@ Design in the Digital Age
 
 - [ ] Read **Chapter 9: Other Sources of Information and Inspiration** (entire chapter - 16 pages, p183-199)
 - [ ] As a team: **Conduct Individual Interviews** (at least four), and **other sources of information and inspiration** (at least two)
-  - Due date for all research (interviews and other): **Tuesday, March 17, 2020**
+  - Due date for all research (interviews and other): <s>Tuesday, March 17, 2020</s> UPDATED: **Tuesday, March 24, 2020** (one extra week)
 - [ ] Keep/maintain an **individual DMS 104 work log**
   - Log meetings; who attended; and outcomes, who attended; who did what
   - Focus on team members (not so much yourself)
