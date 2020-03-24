@@ -139,39 +139,46 @@ This schedule is subject to modification throughout the semester. Always check w
   - [ ] Workshop 16: Extended Spring Break
 
 - **Thursday, March 19, 2020**
-  - [ ] Workshop 17: Modeling and Personas
+  - [ ] Workshop 17: Extended Spring Break 2
 
 <hr>
 
 - **Tuesday, March 24, 2020**
-  - [ ] Workshop 18: User & Domain Analysis (U&DA)
+  - [ ] Workshop 18: Modeling and Personas
+
+    - Watch the [instruction video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
+      - [Chapter 10 and 11: Modeling and Personas (PDF)](18-modeling-and-personas/chapter10-11.pdf)
+      - [Modeling Workshop (PDF)](18-modeling-and-personas/modeling-workshop.pdf)
+
+    - READ: **Chapter 10** (p201-226) and **Chapter 11** (p229-297)
+
 
 - **Thursday, March 26, 2020**
-  - [ ] Workshop 19: Requirements Workshop
+  - [ ] Workshop 19: User & Domain Analysis (U&DA)
 
 <hr>
 
 - **Tuesday, March 31, 2020**
-  - [ ] Workshop 20: Framework & Design Language
+  - [ ] Workshop 20: Requirements and Context Scenarios, part 1
 
 - **Thursday, April 2, 2020**
-  - [ ] Workshop 21: Form & Behavior Specification (F&BS)
+  - [ ] Workshop 21: Requirements and Context Scenarios, part 2
 
 <hr>
 
 - **Tuesday, April 7, 2020**
-  - [ ] Workshop 22: Detailed Design
+  - [ ] Workshop 22: Framework & Design Language
 
 - **Thursday, April 9, 2020**
-  - [ ] Workshop 23: Tools Workshop
+  - [ ] Workshop 23: Form & Behavior Specification (F&BS)
 
 <hr>
 
 - **Tuesday, April 14, 2020**
-  - [ ] Workshop 24: Open Lab
+  - [ ] Workshop 24: Detailed Design
 
 - **Thursday, April 16, 2020**
-  - [ ] Workshop 25: Open Lab
+  - [ ] Workshop 25: Tools Workshop
 
 <hr>
 
