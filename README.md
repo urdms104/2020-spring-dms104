@@ -6,12 +6,6 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
-## Current
-
-- Join the **one-time full class live meeting**, Tuesday, March 24 at 12:30 PM EDT
-  - [https://rochester.zoom.us/j/936765137](https://rochester.zoom.us/j/936765137)
-  - Recording will be posted here later
-
 ## What you and your team need to be doing now
 
 ### Modeling and Personas
@@ -34,3 +28,9 @@ Design in the Digital Age
   - Focus on team members (not so much yourself)
   - Doesn't have to be an exhaustive/detailed account; just an overview of the important steps
   - Hold on to this information; you'll need it for our **peer assessment** after we complete Project 2
+
+## Recent
+
+- The **one-time full class live meeting**, Tuesday, March 24 at 12:30 PM EDT
+  - [Recording available in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e41844-de0b-4787-8639-ab8801211202)
+
