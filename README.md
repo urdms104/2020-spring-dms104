@@ -10,6 +10,10 @@ Design in the Digital Age
 
 ### Modeling and Personas
 
+The following three steps need to be completed *before* our virtual class on Tuesday, March 31.
+
+*Suggestion: EVERYONE power through the instruction video and Chapters 10 and 11 (steps #1 and #2) so you can have your first team meeting (step #3) on Thursday or Friday this week.  That'll give everyone some time to work on the modeling and pull it all together before Tuesday.*
+
 1. EVERYONE: watch the [instruction video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
    - [Chapter 10 and 11: Modeling and Personas (PDF)](18-modeling-and-personas/chapter10-11.pdf)
    - [Modeling Workshop (PDF)](18-modeling-and-personas/modeling-workshop.pdf)
