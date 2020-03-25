@@ -6,20 +6,26 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
-## What you and your team need to be doing now
+## What You and Your Team Need to be Doing Now
 
 ### Modeling and Personas
 
-1. Watch the [instruction video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
+1. EVERYONE: watch the [instruction video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
    - [Chapter 10 and 11: Modeling and Personas (PDF)](18-modeling-and-personas/chapter10-11.pdf)
    - [Modeling Workshop (PDF)](18-modeling-and-personas/modeling-workshop.pdf)
-2. READ: **Chapter 10** (p201-226) and **Chapter 11** (p229-297)
+2. EVERYONE: read **Chapter 10** (p201-226) and **Chapter 11** (p229-297)
    - Suggestion: for each chapter, start with the end, "Project Management..." and "Summary" to understand the scope...
    - Then dive in - understand the tools in chapter 10; understand the process in chapter 11
-3. Setup a team meeting to coordinate...
+3. TEAM LEAD: setup a team meeting to coordinate...
    - Which tools to use from chapter 10
    - Who does what, when
    - When to get back together to review everything
+
+## What's Coming Up Soon
+
+- Thursday, March 26: Team/Professor Modeling Reviews
+  - Each team needs to coordinate time with the professor to review their existing research and plans to model their data
+  - The professor will contact each Team Lead to set it up
 
 ## Ongoing
 

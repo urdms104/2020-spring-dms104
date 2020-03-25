@@ -154,15 +154,17 @@ This schedule is subject to modification throughout the semester. Always check w
 
 
 - **Thursday, March 26, 2020**
-  - [ ] Workshop 19: User & Domain Analysis (U&DA)
+  - [ ] Workshop 19: Team/Professor Modeling Reviews
+    - Each team needs to coordinate time with the professor to review their existing research and plans to model their data
+    - The professor will contact each Team Lead to set it up
 
 <hr>
 
 - **Tuesday, March 31, 2020**
-  - [ ] Workshop 20: Requirements and Context Scenarios, part 1
+  - [ ] Workshop 20: Requirements and Context Scenarios
 
 - **Thursday, April 2, 2020**
-  - [ ] Workshop 21: Requirements and Context Scenarios, part 2
+  - [ ] Workshop 21: User & Domain Analysis (U&DA)
 
 <hr>
 
