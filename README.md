@@ -27,9 +27,9 @@ The following three steps need to be completed *before* our virtual class on Tue
 
 ## What's Coming Up Soon
 
-- Thursday, March 26: Team/Professor Modeling Reviews
-  - Each team needs to coordinate time with the professor to review their existing research and plans to model their data
-  - The professor will contact each Team Lead to set it up
+- Tuesday, March 31: new **Lecture Video: Requirements and Context Scenarios**
+  - There will be a link to the new video here, and an announcement in Slack when it's ready
+  - NOTE: viewing the video is required (counts toward your grade)
 
 ## Ongoing
 
@@ -38,9 +38,4 @@ The following three steps need to be completed *before* our virtual class on Tue
   - Focus on team members (not so much yourself)
   - Doesn't have to be an exhaustive/detailed account; just an overview of the important steps
   - Hold on to this information; you'll need it for our **peer assessment** after we complete Project 2
-
-## Recent
-
-- The **one-time full class live meeting**, Tuesday, March 24 at 12:30 PM EDT
-  - [Recording available in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e41844-de0b-4787-8639-ab8801211202)
 
