@@ -162,6 +162,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Tuesday, March 31, 2020**
   - [ ] Workshop 20: Requirements and Context Scenarios
+    - Watch the [instruction video: Requirements and Scenarios (Panopto 24:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef36f2d-2295-4e7e-a346-ab8f00fc458a)
+      - [Chapter 12: Requirements & Scenarios (PDF)](20-requirements-scenarios/chapter12.pdf)
+    - EVERYONE: read **Chapter 12** (p299-349)
 
 - **Thursday, April 2, 2020**
   - [ ] Workshop 21: User & Domain Analysis (U&DA)
