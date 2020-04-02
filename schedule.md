@@ -90,12 +90,13 @@ This schedule is subject to modification throughout the semester. Always check w
   - City Team: **Philadelphia - Digital Water Bottle** - 1:20 - 1:30 PM
   - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153, due: Tuesday, February 25)
 - **Thursday, February 20, 2020** Workshop 11: Focus Groups, part 2
-- City Team: **Manhattan - Digital Tie Machine** - 12:35 - 12:45 PM
-  - City Team: **Brooklyn - Digital Dorm Light** - 1:05 - 1:15 PM
-  - City Team: **Scranton - Mood Cube** - 1:20 - 1:30 PM
-  - [Research Phase, continued - Chapter 7 Overview (PDF)](11-focus-groups2/chapter7-summary.pdf)
-  
-- [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
+
+    - City Team: **Manhattan - Digital Tie Machine** - 12:35 - 12:45 PM
+    - City Team: **Brooklyn - Digital Dorm Light** - 1:05 - 1:15 PM
+    - City Team: **Scranton - Mood Cube** - 1:20 - 1:30 PM
+    - [Research Phase, continued - Chapter 7 Overview (PDF)](11-focus-groups2/chapter7-summary.pdf)
+
+    - [ ] Read **Chapter 7: Understanding Potential Users and Customers** (entire chapter - 40 pages, p113-153)
     - Each City Team: fill-out [Individual Interview Planning Worksheet (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) (due: Tuesday, February 25)
     - We will review each City Team's plans on Tuesday, February 25
 
@@ -103,9 +104,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Tuesday, February 25, 2020** Workshop 12: User and Customer Research Planning
   
-- Tuesday, February 25: **Research Status Review, part 2**
-    - Review:  [Individual Interview Planning Worksheets (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) 
-    - [Research Phase, continued - Chapter 9 Overview (PDF)](12-research-planning2/chapter9-summary.pdf)
+  
+  - Review:  [Individual Interview Planning Worksheets (Google Doc)](https://drive.google.com/drive/u/0/folders/1R7THSBBuLIkMGPsvf6nDSa9MMXnhavaO) 
+  - [Research Phase, continued - Chapter 9 Overview (PDF)](12-research-planning2/chapter9-summary.pdf)
   - [ ] Read **Chapter 9: Other Sources of Information and Inspiration** (entire chapter - 16 pages, p183-199)
   - [ ] As a team: **Conduct Individual Interviews** (at least four), and **other sources of information and inspiration** (at least two)
     - Due date for all research (interviews and other): **Tuesday, March 17, 2020**
@@ -119,55 +120,47 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, March 3, 2020**
-  - [ ] Workshop 14: Midterm Review
+- **Tuesday, March 3, 2020** Workshop 14: Midterm Review
 
-- **Thursday, March 5, 2020**
-  - [ ] Workshop 15: Midterm Exam
+- **Thursday, March 5, 2020** Workshop 15: Midterm Exam
 
 <hr>
 
-- **Tuesday, March 10, 2020**
-  - [ ] Spring Break
+- **Tuesday, March 10, 2020** Spring Break
 
-- **Thursday, March 12, 2020**
-  - [ ] Spring Break
+- **Thursday, March 12, 2020** Spring Break
 
 <hr>
 
-- **Tuesday, March 17, 2020**
-  - [ ] Workshop 16: Extended Spring Break
+- **Tuesday, March 17, 2020** Workshop 16: Extended Spring Break
 
-- **Thursday, March 19, 2020**
-  - [ ] Workshop 17: Extended Spring Break 2
+- **Thursday, March 19, 2020** Workshop 17: Extended Spring Break 2
 
 <hr>
 
-- **Tuesday, March 24, 2020**
-  - [ ] Workshop 18: Modeling and Personas
-
-    - Watch the [instruction video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
-      - [Chapter 10 and 11: Modeling and Personas (PDF)](18-modeling-and-personas/chapter10-11.pdf)
-      - [Modeling Workshop (PDF)](18-modeling-and-personas/modeling-workshop.pdf)
-
-    - READ: **Chapter 10** (p201-226) and **Chapter 11** (p229-297)
+- **Tuesday, March 24, 2020** Workshop 18: Modeling and Personas
+  - Watch the [Lecture Video: **Modeling and Personas**, and **Modeling Workshop** (Panopto, 35 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5fa10e-7b81-4aa8-a84e-ab8800f5a48f)
+    - [Chapter 10 and 11: Modeling and Personas (PDF)](18-modeling-and-personas/chapter10-11.pdf)
+    - [Modeling Workshop (PDF)](18-modeling-and-personas/modeling-workshop.pdf)
+  - READ: **Chapter 10** (p201-226) and **Chapter 11** (p229-297)
 
 
-- **Thursday, March 26, 2020**
-  - [ ] Workshop 19: Team/Professor Modeling Reviews
-    - Each team needs to coordinate time with the professor to review their existing research and plans to model their data
-    - The professor will contact each Team Lead to set it up
+- **Thursday, March 26, 2020** Workshop 19: Team/Professor Modeling Reviews
+  - Each team needs to coordinate time with the professor to review their existing research and plans to model their data
+  - The professor will contact each Team Lead to set it up
 
 <hr>
 
-- **Tuesday, March 31, 2020**
-  - [ ] Workshop 20: Requirements and Context Scenarios
-    - Watch the [instruction video: Requirements and Scenarios (Panopto 24:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef36f2d-2295-4e7e-a346-ab8f00fc458a)
-      - [Chapter 12: Requirements & Scenarios (PDF)](20-requirements-scenarios/chapter12.pdf)
-    - EVERYONE: read **Chapter 12** (p299-349)
+- **Tuesday, March 31, 2020** Workshop 20: Requirements and Context Scenarios
+  - Watch the [Lecture Video: Requirements and Scenarios (Panopto 24:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef36f2d-2295-4e7e-a346-ab8f00fc458a)
+    - [Chapter 12: Requirements & Scenarios (PDF)](20-requirements-scenarios/chapter12.pdf)
+  - Read **Chapter 12** (p299-349)
+  - TEAM: Compile all research into **models** (including **personas**), **context scenarios** and **requirements** (required for Project 2)
+- **Thursday, April 2, 2020** Workshop 21: User & Domain Analysis (U&DA)
 
-- **Thursday, April 2, 2020**
-  - [ ] Workshop 21: User & Domain Analysis (U&DA)
+  - Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
+  - Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
+  - **Project 2: User & Domain Analysis (instructions coming soon)**
 
 <hr>
 

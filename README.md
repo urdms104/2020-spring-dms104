@@ -8,20 +8,14 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-*As of Tuesday, March 31...*
+If you team hasn't finished up creating **models** (including **personas**) and **context scenarios** and **requirements**, do that now because they are needed to complete Project 2...
 
-### Requirements and Context Scenarios
+*As of Thursday, April 2...*
 
-The following steps need to be completed *before* our next virtual class on Thursday, April 2.
-
-1. EVERYONE: watch the [instruction video: Requirements and Scenarios (Panopto 24:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef36f2d-2295-4e7e-a346-ab8f00fc458a)
-2. EVERYONE: read **Chapter 12** (p299-349)
-3. TEAM LEAD: setup a team meeting to coordinate...
-   - A virtual team workshop to develop context scenarios and requirements
-
-## What's Coming Up Soon
-
-- Thursday, April 2: new **Lecture Video: Putting it All Together - the U&DA (Project 2)**
+- [ ] Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
+  - You are required to watch this video in its entirety the same day. Counts as participation.
+- [ ] Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
+- [ ] **Project 2: User & Domain Analysis (instructions coming soon)**
 
 ## Ongoing
 
