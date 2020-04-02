@@ -8,7 +8,7 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-If you team hasn't finished up creating **models** (including **personas**) and **context scenarios** and **requirements**, do that now because they are needed to complete Project 2...
+If your team hasn't finished up creating **models** (including **personas**) and **context scenarios** and **requirements**, do that now because they are needed to complete Project 2...
 
 *As of Thursday, April 2...*
 
