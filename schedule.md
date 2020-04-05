@@ -160,7 +160,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
   - Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
   - Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
-  - **Project 2: User & Domain Analysis (instructions coming soon)**
+  - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Thursday, April 9)
 
 <hr>
 

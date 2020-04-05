@@ -15,7 +15,7 @@ If your team hasn't finished up creating **models** (including **personas**) and
 - [ ] Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
   - You are required to watch this video in its entirety the same day. Counts as participation.
 - [ ] Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
-- [ ] **Project 2: User & Domain Analysis (instructions coming soon)**
+- [ ] [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Thursday, April 9)
 
 ## Ongoing
 

@@ -1,13 +1,13 @@
 # Project 2: User & Domain Analysis
 
-*Due: Tuesday, April 2, 2019*
+*Due: Thursday, April 9, 2019*
 
-This assignment, Project 2, is worth 15% of your overall grade for this course.  For this assignment, you will work on a document as a team and initially, be graded equally.  Later we'll do a peer evaluation which may impact the distribution of the grade.
+For this assignment, you will work on a document as a team and initially, be graded equally.  Later we'll do a **peer evaluation** which may impact the distribution of the grade.
 
 In summary: your city-team is required to create a document that summarizes the following data that you pulled together from the first half of the semester.  
 
 - Stakeholder meeting (chapter 5)
-- User Interviews and product research (chapters6-9)
+- User Interviews and product research (chapters 6-9)
 - Modeling (chapter 10)
 - Personas (chapter 11)
 - Requirements and context scenarios (chapter 12)
@@ -20,9 +20,9 @@ Listed below are the *typical* roles that have responsibility for the various se
 
 *Typically, this would be the responsibility of the Team Lead...*
 
-- This entire document must be focused on **design issues and design concerns only**.  Marketing, engineering, or business issues and constraints may be mentioned in this document but only as it pertains to the design process.
-- The document must follow **normal formatting practices** for college-level documents: proper headers, footers, typeface, line spacing, et cetera.  Poorly formatted documents, spelling mistakes, or anything that makes the document difficult to read will result in a reduced grade.
-- Verbiage within the document must be clear and concise.  Spelling mistakes and poor grammar, or overly flowery or unnecessarily verbose paragraphs will be immediately suspect and most likely result in a lower grade.  
+- [ ] This entire document must be focused on **design issues and design concerns only**.  Marketing, engineering, or business issues and constraints *may* be mentioned in this document but only as it pertains to the design process, if at all.
+- [ ] The document must follow **normal formatting practices** for college-level documents: proper headers, footers, typeface, line spacing, et cetera.  Poorly formatted documents, spelling mistakes, or anything that makes the document difficult to read will result in a reduced grade.
+- [ ] Verbiage within the document must be clear and concise.  Spelling mistakes and poor grammar, or overly flowery or unnecessarily verbose paragraphs will be immediately suspect and most likely result in a lower grade.  
 
 **The document must contain the sections as described in Chapter 13, clearly delineated with headings**
 
@@ -32,8 +32,8 @@ Here (below) are requirements and advice for each section:
 
 *(Typical: Team Lead)*
 
-- After the team writes everything else, create the Executive Summary; extract the most important and salient points from the other sections and write a relatively short set of concise paragraphs.
-- Wrap-up with a general statement about your team’s feelings on the concerns and risks associated with the rest of design process.
+- [ ] After the team writes everything else, create the Executive Summary; extract the most important and salient points from the other sections and write a relatively short set of concise paragraphs.
+- [ ] Wrap-up with a general statement about your team’s feelings on the concerns and risks associated with the rest of design process.
 
 ### Introduction of the product idea and its project parameters
 
@@ -44,7 +44,7 @@ Here (below) are requirements and advice for each section:
 
 ### Research methods and rationale
 
-*(Typical: any team member)*
+*Typical: any team member(s)*
 
 - Describe the types of research you did. Explain what you did and why.
 - Don’t forget to include in your list the stakeholder meeting and the focus group.  Then list everything else. 
@@ -53,19 +53,19 @@ Here (below) are requirements and advice for each section:
 
 ### Summary of research findings
 
-*(Typical: whoever wrote the previous section)*
+*Typical: whoever wrote the previous section*
 
 - In this section, summarize the results of every method described above.
 - Do *not* include all the detail, e.g. leave out non-salient information from your research, i.e. information that didn't result in useful information.
-- Use pull-quotes and any kind of special formatting to highlight the most interesting, impactful findings, however you see fit.
-- Use the models you developed as necessary to tell a narrative story; include graphs, charts, pictures as needed to explain the general issues and patterns.
+- Use *pull-quotes* and any kind of special formatting to highlight the most interesting, impactful findings, however you see fit.
+- Use the **models** you developed as necessary to tell a narrative story; include **graphs**, **charts**, **lists** and **pictures** as needed to explain the general issues and patterns.
 - Remember: do not mix product features or design aspects in here (or anywhere in this document for that matter! )
   - Common mistake: putting information about the finished product in the U&DA.  You haven’t designed the product yet so don’t talk about any aspect of its design or the products features anywhere in this document.  
-  - For example, don't say "app" or "touch screen" ...things like that.  Just refer to "the product" or "the interface."
+  - For example, don't say "app" or "touch screen" ...things like that.  Just refer to "the device" or "the interface."
 
 ### Personas
 
-*(Typical: any team member)*
+*Typical: any team member(s)*
 
 - Start with an introduction that describes the persona development process you used. (Information like this comes right out of the book. Chapter 11.)
 - *Introduce each pe*rsona, one at a time.  Provide all the detail – the complete persona (usually one per page).  
@@ -75,7 +75,7 @@ Here (below) are requirements and advice for each section:
 
 ### Context Scenarios and Requirements
 
-*(Typical: IxD)*
+*Typical: IxD (G and/or S)*
 
 - List your context scenarios and descriptions and relate each scenario to one or more personas.
   - Remember: context scenarios are optimistic - future-state predictions that satisfy the persona’s motivations and goals.
@@ -109,3 +109,4 @@ The User & Domain Analysis is explained in detail in Chapter 13.  You can simply
 Required: submit a **Microsoft Word** document (not Google Doc; not Apple Pages)
 
 In our DMS 104 section, look in the Assignments area for "**Project 2: User & Domain Analysis**"
+
