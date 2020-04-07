@@ -8,14 +8,14 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-If your team hasn't finished up creating **models** (including **personas**) and **context scenarios** and **requirements**, do that now because they are needed to complete Project 2...
+Your team needs to be mostly focused on Project 2, but as you're waiting for other team members to finish their part...
 
-*As of Thursday, April 2...*
+*As of Tuesday, April 7...*
 
-- [ ] Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
+- [ ] Watch the [Lecture Video: Framework and Design Language Overview (Panopto 10:48)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c2b38a-ab3b-48a7-bb04-ab950165fd28)
+  - Accompanying slides: [Framework and Design Language Overview (PDF)](22-framework-and-design-language/framework-and-design-language-overview.pdf)
   - You are required to watch this video in its entirety the same day. Counts as participation.
-- [ ] Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
-- [ ] [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Thursday, April 9)
+- [ ] **READ Chapter 14, p377-403**
 
 ## Ongoing
 

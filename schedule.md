@@ -158,38 +158,44 @@ This schedule is subject to modification throughout the semester. Always check w
   - TEAM: Compile all research into **models** (including **personas**), **context scenarios** and **requirements** (required for Project 2)
 - **Thursday, April 2, 2020** Workshop 21: User & Domain Analysis (U&DA)
 
-  - Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
-  - Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
-  - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Thursday, April 9)
+  - [ ] Watch the [Lecture Video: Project 2 - User & Domain Analysis (Panopto 11:45)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d94f0a18-0c45-4002-bc53-ab9100e4c2f1) (featuring Zöe)
+  - [ ] Read **Chapter 13 - document part only** (p351 - 366, then skip to the end)
+  - [ ] [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Thursday, April 9)
 
 <hr>
 
-- **Tuesday, April 7, 2020**
-  - [ ] Workshop 22: Framework & Design Language
+- **Tuesday, April 7, 2020** Workshop 22: Framework & Design Language
+
+    - [ ] Watch the [Lecture Video: Framework and Design Language Overview (Panopto 10:48)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c2b38a-ab3b-48a7-bb04-ab950165fd28)
+
+      - Accompanying slides: [Framework and Design Language Overview (PDF)](22-framework-and-design-language/framework-and-design-language-overview.pdf)
+      - You are required to watch this video in its entirety the same day. Counts as participation.
+
+    - [ ] **READ Chapter 14, p377-403**
 
 - **Thursday, April 9, 2020**
-  - [ ] Workshop 23: Form & Behavior Specification (F&BS)
+  - [ ] Workshop 23: Framework & Design Language Tools Workshop
 
 <hr>
 
 - **Tuesday, April 14, 2020**
-  - [ ] Workshop 24: Detailed Design
+  - [ ] Workshop 24: Form & Behavior Specification (F&BS)
 
 - **Thursday, April 16, 2020**
-  - [ ] Workshop 25: Tools Workshop
+  - [ ] Workshop 25: Detailed Design, part 1
 
 <hr>
 
 - **Tuesday, April 21, 2020**
-  - [ ] Workshop 26: Final Presentations, part 1
+  - [ ] Workshop 26: Detailed Design, part 2
 
 - **Thursday, April 23, 2020**
-  - [ ] Workshop 27: Final Presentations, part 2
+  - [ ] Workshop 27: Final Presentations, part 1
 
 <hr>
 
 - **Tuesday, April 28, 2020**
-  - [ ] Workshop 28: Final Presentations, part 3
+  - [ ] Workshop 28: Final Presentations, part 2
 
 *Note: there is nothing scheduled in Exam Week for DMS 104 (the exams are in the regularly scheduled labs)*
 
