@@ -173,8 +173,23 @@ This schedule is subject to modification throughout the semester. Always check w
 
     - [ ] **READ Chapter 14, p377-403**
 
-- **Thursday, April 9, 2020**
-  - [ ] Workshop 23: Framework & Design Language Tools Workshop
+- **Thursday, April 9, 2020** Workshop 23: Framework & Design Language Tools Workshop
+
+  - [ ] Watch the [Lecture Video: Framework and Design Language Tools and Workshop (Panopto 41:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c071736-ae62-4253-8d93-ab980137458b)
+
+  - Accompanying slides: [Summaries of Chapters 15 through 19 (PDF)](23-tools-and-workshop/chapters15-19.pdf)
+  - You are required to watch this video in its entirety. Counts as participation.
+
+
+  - [ ] **IxDG and IxDS, read/study in detail:** 
+      - Chapter 15 (principles & patterns) and Chapter 16 (process)
+      - and learn: Chapters 17 & 18 
+      - and skim Chapter 19
+  - [ ] **VisD and ID, read/study in detail:**
+      - Chapter 17 (principles & patterns) and Chapter 18 (process)
+      - and learn: Chapters 15 & 16 
+      - and skim Chapter 19
+  - [ ] **Team Leads, read chapters:** 15, 16, 17, 18, 19
 
 <hr>
 

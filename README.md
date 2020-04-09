@@ -8,20 +8,22 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-Your team needs to be mostly focused on Project 2, but as you're waiting for other team members to finish their part...
+As your team wraps up and turns in Project 2, time to dive in to creation of the Framework (by the interaction designers) and the Design Language (by the visual and industrial designers).  
 
-*As of Tuesday, April 7...*
+*As of Thursday, April 9...*
 
-- [ ] Watch the [Lecture Video: Framework and Design Language Overview (Panopto 10:48)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c2b38a-ab3b-48a7-bb04-ab950165fd28)
-  - Accompanying slides: [Framework and Design Language Overview (PDF)](22-framework-and-design-language/framework-and-design-language-overview.pdf)
-  - You are required to watch this video in its entirety the same day. Counts as participation.
-- [ ] **READ Chapter 14, p377-403**
+- [ ] Watch the [Lecture Video: Framework and Design Language Tools and Workshop (Panopto 41:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c071736-ae62-4253-8d93-ab980137458b)
+  - Accompanying slides: [Summaries of Chapters 15 through 19 (PDF)](23-tools-and-workshop/chapters15-19.pdf)
+  - You are required to watch this video in its entirety. Counts as participation.
+- [ ] **IxDG and IxDS, read/study in detail:** 
+  - Chapter 15 (principles & patterns) and Chapter 16 (process)
+  - and learn: Chapters 17 & 18 
+  - and skim Chapter 19
+- [ ] **VisD and ID, read/study in detail:**
+  - Chapter 17 (principles & patterns) and Chapter 18 (process)
+  - and learn: Chapters 15 & 16 
+  - and skim Chapter 19
+- [ ] **Team Leads, read chapters:** 15, 16, 17, 18, 19
 
-## Ongoing
 
-- Keep/maintain an **individual DMS 104 work log**
-  - Log meetings; who attended; and outcomes, who attended (who did not attend); and who did what
-  - Focus on team members (not so much yourself)
-  - Doesn't have to be an exhaustive/detailed account; just an overview of the important steps
-  - Hold on to this information; you'll need it for our **peer assessment** after we complete Project 2
 
