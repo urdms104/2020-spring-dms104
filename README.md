@@ -8,22 +8,20 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-As your team wraps up and turns in Project 2, time to dive in to creation of the Framework (by the interaction designers) and the Design Language (by the visual and industrial designers).  
-
-*As of Thursday, April 9...*
-
-- [ ] Watch the [Lecture Video: Framework and Design Language Tools and Workshop (Panopto 41:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c071736-ae62-4253-8d93-ab980137458b)
-  - Accompanying slides: [Summaries of Chapters 15 through 19 (PDF)](23-tools-and-workshop/chapters15-19.pdf)
-  - You are required to watch this video in its entirety. Counts as participation.
-- [ ] **IxDG and IxDS, read/study in detail:** 
-  - Chapter 15 (principles & patterns) and Chapter 16 (process)
-  - and learn: Chapters 17 & 18 
-  - and skim Chapter 19
-- [ ] **VisD and ID, read/study in detail:**
-  - Chapter 17 (principles & patterns) and Chapter 18 (process)
-  - and learn: Chapters 15 & 16 
-  - and skim Chapter 19
-- [ ] **Team Leads, read chapters:** 15, 16, 17, 18, 19
+- [ ] INDIVIDUALLY: Watch the [Instruction Video: Design Vision Prep Workshop (Panopto 14:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8454d220-c187-4cf7-b22e-ab9d0120725d)
+  - This time, the video is all about things you need know and be aware about
+  - Accompanying slides: [Design Vision Prep Workshop (PDF)](24-design-vision-prep-workshop/design-vision-prep-workshop.pdf)
+- [ ] INDIVIDUALLY: Fill-out the [Peer Assessment form](https://forms.gle/7pzhtEkVe6dRnYP86) (due: EOD, Friday, April 17)
+  - Remember: IF you are concerned about how Project 2 turned out, the Peer Assessment is how you **protect yourself** from getting a bad grade!
+- [ ] AS A TEAM: deliver an online presentation to the [DMS 104 Assignments folder in Panopto]() **before EOD on Thursday, April 16**<br>*Steps...*
+  1. Get the Worksheet: [download the Word doc here (ZIP)](24-design-vision-prep-workshop/design-vision-prep-worksheet.zip); share it amongst your team, and fill it out
+     - Note: you don't have to use the Word Doc.  You can copy-out the text however you want to do it, and work with your team to gather the information.  Remember: you *will not* be turning-in the Word doc.
+  2. Turn the Worksheet into a team presentation<br>*Requirements*
+     - Use slides
+     - At least 2 or 3 minutes (longer is better)
+     - Everyone in the team must appear and be heard in the video (at least a little) at some point
+     - The audio and video must be *good enough* to be understood (a very low bar)
+  3. Upload the ONE video file to the [DMS 104 Assignments folder](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a8670baa-aaf1-4702-a0bd-ab8b00da179a%22) in Panopto, by EOD on Thursday, April 16
 
 
 
