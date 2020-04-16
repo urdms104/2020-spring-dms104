@@ -211,11 +211,16 @@ This schedule is subject to modification throughout the semester. Always check w
        - The audio and video must be *good enough* to be understood (a very low bar)
     3. Upload the ONE video file to the [DMS 104 Assignments folder](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a8670baa-aaf1-4702-a0bd-ab8b00da179a%22) in Panopto, by EOD on Thursday, April 16
 
-  
+- **Thursday, April 16, 2020** Workshop 25: Design Vision and Beyond
 
-- **Thursday, April 16, 2020**
-  
-  - [ ] Workshop 25: Design Vision
+  - [ ] INDIVIDUALLY: Watch the [Instruction Video: Design Vision and Beyond (Panopto18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc657403-3bb2-4925-b121-ab9f01124026)
+
+  ...then stand by for:
+
+  - The professor will publish new instructions for a new final project, due at the end of the semester
+  - The professor will contact each team individually and request TWO meetings (via Zoom) with your entire team, over the next couple of weeks.
+
+
 
 <hr>
 
