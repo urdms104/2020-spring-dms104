@@ -13,7 +13,7 @@ Each City Team presented their design project ideas on Tuesday, January 21, 2020
 - [**Scranton** (PDF)](files/scrantonIDEAS.pdf): Mood Cube
 - [**Seattle** (PDF)](files/seattleIDEAS.pdf): Space Game; Interactive Play Exhibit; Light Skating
 
-## Project 1: Marketing Requirements Documents (MRDs)
+## Project 1: Marketing Requirements Document (MRD)
 
 Each City Team submitted their MRDs on Tuesday, February 4
 
@@ -24,4 +24,16 @@ Each City Team submitted their MRDs on Tuesday, February 4
 - [**Philadelphia**: Digital Water Bottle (PDF)](files/philadelphiaMRDv2.pdf)
 - [**Scranton**: Mood Cube (PDF)](files/scrantonMRD.pdf)
 - [**Seattle**: Light Skating (PDF)](files/seattleMRD.pdf)
+
+## Project 2: User & Domain Analysis (U&DA)
+
+Each City Team submitted their U&DAs on Thursday, April 9
+
+- [**Brooklyn**: Digital Dorm Light (PDF)](files/brooklynUDA.pdf)
+- [**Istanbul**: Auto Medicine Dispensary (PDF)](files/istanbulUDA.pdf)
+- [**Manhattan**: Digital Tie Machine (PDF)](files/manhattanUDA.pdf)
+- [**Miami**: Health Pets (PDF)](files/miamiUDA.pdf)
+- [**Philadelphia**: Digital Water Bottle (PDF)](files/philadelphiaUDA.pdf)
+- [**Scranton**: Mood Cube (PDF)](files/scrantonUDA.pdf)
+- [**Seattle**: Light Skating (PDF)](files/seattleUDA.pdf)
 
