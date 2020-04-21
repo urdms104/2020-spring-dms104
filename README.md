@@ -8,12 +8,7 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
-- [ ] INDIVIDUALLY: Watch the [Instruction Video: Design Vision and Beyond (Panopto18:47)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc657403-3bb2-4925-b121-ab9f01124026)
-
-...then stand by for:
-
-- The professor will publish new instructions for a new final project, due at the end of the semester
-- The professor will contact each team individually and request TWO meetings (via Zoom) with your entire team, over the next couple of weeks.
-
-
+- [ ] INDIVIDUALLY: watch the [Lecture Video: Design Vision (Panopto 12:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de3d126-bd61-4c68-8a9a-aba400ff0577)
+  - Required: watch the video in a timely fashion
+  - Note: previously, the "Design Vision" was going to be a separate deliverable from your team (Project 3); now it will be combined with the next phase, the Form & Behavior Specification (F&BS) that you'll deliver at the end of the semester.
 

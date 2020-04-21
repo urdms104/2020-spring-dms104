@@ -200,6 +200,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 
   - [ ] INDIVIDUALLY: Fill-out the [Peer Assessment form](https://forms.gle/7pzhtEkVe6dRnYP86) (due: EOD, Friday, April 17)
+    
     - Remember: IF you are concerned about how Project 2 turned out, the Peer Assessment is how you **protect yourself** from getting a bad grade!
   - [ ] AS A TEAM: deliver an online presentation to the [DMS 104 Assignments folder in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a8670baa-aaf1-4702-a0bd-ab8b00da179a%22) **before EOD on Thursday, April 16**<br>*Steps...*
     1. Get the Worksheet: [download the Word doc here (ZIP)](24-design-vision-prep-workshop/design-vision-prep-worksheet.zip); share it amongst your team, and fill it out
@@ -224,11 +225,13 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Tuesday, April 21, 2020**
-  - [ ] Workshop 26: Detailed Design
+- **Tuesday, April 21, 2020** Workshop 26: Design Vision
 
+  - INDIVIDUALLY: watch the [Lecture Video: Design Vision (Panopto 12:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de3d126-bd61-4c68-8a9a-aba400ff0577)
+    - Required: watch the video in a timely fashion
+    - Note: previously, the "Design Vision" was going to be a separate deliverable from your team (Project 3); now it will be combined with the next phase, the Form & Behavior Specification (F&BS) that you'll deliver at the end of the semester.
 - **Thursday, April 23, 2020**
-  - [ ] Workshop 27: Form & Behavior Specification (F&BS)
+  - [ ] Workshop 27: Detailed Design (Form & Behavior Specification (F&BS))
 
 <hr>
 
