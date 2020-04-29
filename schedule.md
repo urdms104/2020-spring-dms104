@@ -250,7 +250,5 @@ This schedule is subject to modification throughout the semester. Always check w
     - Part 2 of the Final Project: Form & Behavior Specification
   - Note: the professor will need to see drafts and have a chance to provide feedback to your team and to you (as individuals) before you turn-in the Final Project
 
-<hr>
-
-- **Sunday, May 10, 2020**
-  - [ ] Due date for the Final Project
+  - [ ] [Final Project: Design Vision and Form & Behavior Specification](final-project/instructions.md) (due: Sunday, May 10)
+    - Recommended: use Slack to have the professor review parts of the final project anytime before your team turns-in the Final Project

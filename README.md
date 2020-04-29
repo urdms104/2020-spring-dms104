@@ -8,6 +8,9 @@ Design in the Digital Age
 
 ## What You and Your Team Need to be Doing Now
 
+- [ ] [Final Project: Design Vision and Form & Behavior Specification](final-project/instructions.md) (due: Sunday, May 10)
+  - Recommended: use Slack to have the professor review parts of the final project anytime before your team turns-in the Final Project
+
 **Tuesday, April 28** Form & Behavior Specification
 
 - [ ] Watch the [Lecture Video: Form & Behavior Specification (Panopto 23:35)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60189a2a-3767-41b0-93d3-abab00ef1f89)
@@ -15,14 +18,6 @@ Design in the Digital Age
   - Part 1 of the Final Project: Design Vision
   - Part 2 of the Final Project: Form & Behavior Specification
 - Note: the professor will need to see drafts and have a chance to provide feedback to your team and to you (as individuals) before you turn-in the Final Project
-
-<hr>
-
-
-- **Sunday, May 10, 2020**
-  - [ ] Due date for the Final Project
-
-
 
 
 
