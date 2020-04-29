@@ -22,7 +22,7 @@ Also note, everyone in the team must deliver at least part of the Design Vision 
 NOTE: the following sections are described in detail in Chapter 19, in the book, starting with *Crafting the Story* on page 517.  You can follow what's described in those pages keeping in mind: you are working on a document, not a presentation, and you are working on a much smaller project and you don't have to go into as much detail as they do in the book. 
 
 - [ ] (Team Lead) The document must follow **normal formatting practices** for college-level work: readable typography, proper line spacing, et cetera.  Poorly formatted pages, spelling mistakes, or anything that makes the document difficult to read will result in a reduced grade. 
-- [ ] (Team Lead) **The document *should* contain the **sections shown below, clearly delineated with the following headings.
+- [ ] (Team Lead) **The document *should* contain the** sections shown below, clearly delineated with the following headings.
   - The team roles listed there are suggestions only *(Note: the best teams share so much of the work load that it's sometimes hard to tell who did what ...that would be a good thing.)*
   - You are free to change or re-interpret these sections as you see fit, based on the specifics of the information you need to document for your particular product idea.
 
