@@ -41,7 +41,6 @@ NOTE: the following sections are described in detail in Chapter 19, in the book,
     - Remember to use *unrealistic* imagery. Wireframes, sketches, et cetera. You are writing rules for design, not the actual design itself.
 - [ ] **Scenario Storyboards** (IxDG and IxDS)
   - This is, in effect, a visual and descriptive walk-through of the "play" 
-
   - Each walk-through is referred to as a "key path" - make sure you use the correct terminology as you write-up the scenario storyboards.  (Google: *storyboards* if you're unfamiliar with that term)
 - [ ] **How the Design Serves Persona Needs** (VisD and/or ID)
   - Make sure you tie the key paths back to each persona need.  Be specific, referring to the exact language used in the U&DA as much as possible.
