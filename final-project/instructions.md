@@ -52,7 +52,7 @@ NOTE: the following sections are described in detail in Chapter 19, in the book,
 
 
 
-## Part 3: Form & Behavior Specification
+## Part 2: Form & Behavior Specification
 
 The F&BS is a document that describes every interaction, and every visual and physical (industrial) aspect of the product.  It needs to have enough specific information so engineers could use it to build a working prototype.  *(Note: this, in effect, would be what you will do as part of your DMS Capstone Project.)*
 
