@@ -1,6 +1,6 @@
 # DMS 104: Final Project
 
-*Due: Friday, May 10, 2020 (end of exams week)*
+*Due: Sunday, May 10, 2020 (end of exams week)*
 
 This assignment brings together your city-team's **Design Vision** and **Form & Behavior Specification (F&BS)** into one document.
 
