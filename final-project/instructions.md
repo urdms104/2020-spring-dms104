@@ -122,4 +122,13 @@ This cannot be said enough: the book is a template for everything we’re doing 
 
 *One team member* (typically the Team Lead) needs to turn-in the document in Blackboard.
 
-Required: submit a **Microsoft Word** document (not Google Doc; not Apple Pages; not PDF)
+<s>Required: submit a **Microsoft Word** document (not Google Doc; not Apple Pages; not PDF)</s>
+
+UPDATED: you can submit the final project document in any format that works best for you.
+
+*If you use a **Google Doc***
+
+- Be sure to share it with **rkostin@gmail.com** (because my UR email won't work)
+
+- Then in Blackboard, just submit the URL of the document
+
