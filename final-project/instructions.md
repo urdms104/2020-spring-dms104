@@ -114,9 +114,9 @@ The Team Lead needs work with the rest of the team to figure-out the best way to
 
 This cannot be said enough: the book is a template for everything we’re doing in this course. In many cases, you can simply look in the book to figure out how to write and format your presentation.  Steal shamelessly!  Don’t try to reinvent the wheel.
 
-### Colophon
+## Colophon
 
-- [ ] The last page of the document needs to list who worked on the design team, their roles, and a short description of their contribution to this document.
+- [ ] The last page of the document needs to list who worked on the design team, their roles, and a short description of their contribution to this document for the entire Final Project (Part I and Part 2).
 
 ## Submission in Blackboard
 
